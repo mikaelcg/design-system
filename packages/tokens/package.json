@@ -15,7 +15,7 @@
   "license": "MIT",
   "devDependencies": {
     "@ui/ts-config": "*",
-    "@ui/esling-config": "*",
+    "@ui/eslint-config": "*",
     "tsup": "^6.7.0",
     "typescript": "^5.0.4"
   }
