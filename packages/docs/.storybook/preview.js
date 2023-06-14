@@ -8,6 +8,9 @@ const preview = {
         date: /Date$/,
       },
     },
+    docs: {
+      theme: themes.dark,
+    }
   },
 
 };
